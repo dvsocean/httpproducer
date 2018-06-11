@@ -1,10 +1,13 @@
-typeSafe/Account.class
 hello/ItemService.class
 Comments/Assorted.class
 action/Render.class
 hello/ItemRestController.class
+hello/ColtService.class
 hello/ContractRestServiceApplication.class
-hello/PersonRestController.class
 hello/PersonService.class
+hello/MilitaryController.class
+hello/Colt.class
+typeSafe/Account.class
+hello/PersonRestController.class
 hello/Person.class
 hello/Item.class

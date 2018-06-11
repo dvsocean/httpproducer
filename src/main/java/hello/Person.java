@@ -45,7 +45,7 @@ public class Person {
   public String obtainAccessKey(Account account, String nameOfUser, int previousAccount){
     Render rn = new Render();
     rn.calculateAccess(account, previousAccount);
-    return nameOfUser + " Authorized";
+    return nameOfUser + " is authorized";
   }
 
   public String pickOut(){
