@@ -22,7 +22,7 @@ public abstract class BaseClass {
 
   @Before public void setup() {
     RestAssuredMockMvc.standaloneSetup(personRestController);
-    Person pr = new Person(1L, "Jack", "Sparrow");
+    Person pr = new Person(1L, "JackieBoy", "Sparrow");
 
     Mockito.when(personService.findPersonById(1L))
         .thenReturn(pr);
