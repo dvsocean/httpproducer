@@ -28,8 +28,8 @@ public class HelloTest extends BaseClass {
 		// and:
 			DocumentContext parsedJson = JsonPath.parse(response.getBody().asString());
 			assertThatJson(parsedJson).field("['id']").isEqualTo(1);
-			assertThatJson(parsedJson).field("['name']").isEqualTo("Jack");
-			assertThatJson(parsedJson).field("['surname']").isEqualTo("Sparrow");
+			assertThatJson(parsedJson).field("['surname']").isEqualTo("Hobbs");
+			assertThatJson(parsedJson).field("['name']").isEqualTo("Jason");
 	}
 
 }

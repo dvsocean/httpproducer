@@ -17,8 +17,8 @@ Contract.make {
         }
         body (
                 id: 1,
-                name: "Jack",
-                surname: "Sparrow"
+                name: "Jason",
+                surname: "Hobbs"
         )
     }
 }
