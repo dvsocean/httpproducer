@@ -1,6 +1,5 @@
 package hello;
 
-import Comments.Assorted;
 import action.Render;
 import typeSafe.Account;
 
@@ -42,15 +41,9 @@ public class Person {
     this.surname = surname;
   }
 
-  public String obtainAccessKey(Account account, String nameOfUser, int previousAccount){
+  public String obtainAccessKey(Account account, String nameOfUser, int previousAccount) {
     Render rn = new Render();
     rn.calculateAccess(account, previousAccount);
     return nameOfUser + " is authorized";
   }
-
-  public String pickOut(){
-    Assorted ass = new Assorted();
-    return ass.selectComment("Reloaded", "Joseph");
-  }
-
 }

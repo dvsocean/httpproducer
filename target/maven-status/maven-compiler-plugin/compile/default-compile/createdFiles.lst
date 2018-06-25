@@ -1,13 +1,15 @@
 hello/ItemService.class
-Comments/Assorted.class
 action/Render.class
 hello/ItemRestController.class
 hello/ColtService.class
 hello/ContractRestServiceApplication.class
+cars/Car.class
 hello/PersonService.class
 hello/MilitaryController.class
 hello/Colt.class
+cars/CarService.class
 typeSafe/Account.class
 hello/PersonRestController.class
 hello/Person.class
 hello/Item.class
+cars/CarRestController.class
