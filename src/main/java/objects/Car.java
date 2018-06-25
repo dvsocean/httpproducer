@@ -1,4 +1,4 @@
-package cars;
+package objects;
 
 public class Car {
 

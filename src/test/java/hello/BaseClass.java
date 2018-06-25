@@ -1,5 +1,6 @@
 package hello;
 
+import objects.Person;
 import org.junit.Before;
 import org.junit.runner.RunWith;
 import org.mockito.Mockito;
@@ -9,6 +10,7 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import io.restassured.module.mockmvc.RestAssuredMockMvc;
+import services.PersonService;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = ContractRestServiceApplication.class)

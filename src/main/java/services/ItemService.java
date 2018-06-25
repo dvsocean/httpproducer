@@ -1,5 +1,6 @@
-package hello;
+package services;
 
+import objects.Item;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;

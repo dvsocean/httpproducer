@@ -1,11 +1,8 @@
-package hello;
-
-import action.Render;
-import typeSafe.Account;
+package objects;
 
 public class Person {
 
-  Person(Long id, String name, String surname) {
+  public Person(Long id, String name, String surname) {
     this.id = id;
     this.name = name;
     this.surname = surname;
@@ -39,11 +36,5 @@ public class Person {
 
   public void setSurname(String surname) {
     this.surname = surname;
-  }
-
-  public String obtainAccessKey(Account account, String nameOfUser, int previousAccount) {
-    Render rn = new Render();
-    rn.calculateAccess(account, previousAccount);
-    return nameOfUser + " is authorized";
   }
 }

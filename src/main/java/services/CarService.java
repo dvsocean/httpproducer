@@ -1,4 +1,4 @@
-package hello;
+package services;
 
 import objects.Car;
 import java.util.HashMap;
@@ -19,7 +19,7 @@ public class CarService {
     carMap.put(5L, new Car(5L, "Dodge", "Ram"));
   }
 
-  Car carById(Long id) {
+  public Car carById(Long id) {
     return carMap.get(id);
   }
 }
