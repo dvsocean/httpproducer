@@ -8,39 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="284db09c-d4ca-4a1c-a759-d24b49c2fb51" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/action/Render.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/CarController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/ColtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/ColtService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/ItemRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/ItemRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/ItemService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/MilitaryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/MilitaryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/PersonRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/PersonRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/PersonService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objects/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/objects/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objects/Colt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/objects/Colt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objects/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/objects/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objects/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/objects/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/services/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/CarService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/typeSafe/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hello/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hello/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/action/Render.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cars/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cars/CarRestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cars/CarService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hello/Colt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hello/ColtService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hello/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hello/ItemRestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hello/ItemService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hello/MilitaryController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hello/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hello/PersonRestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hello/PersonService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/typeSafe/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/stubs/META-INF/com.example/contract-rest-service/1.0/mappings/hello/find_person_by_id.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/stubs/META-INF/com.example/contract-rest-service/1.0/mappings/hello/find_person_by_id.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hello/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hello/BaseClass.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +22,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="CarController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/controllers/CarController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hello/CarController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
@@ -67,7 +36,7 @@
         </entry>
       </file>
       <file leaf-file-name="PersonRestController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/controllers/PersonRestController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hello/PersonRestController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
@@ -83,8 +52,11 @@
       <file leaf-file-name="BaseClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/hello/BaseClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,7 +88,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/hello/ContractRestServiceApplication.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/hello/BaseClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/hello/PersonService.java" />
         <option value="$PROJECT_DIR$/src/test/resources/contracts/hello/find_person_by_id.groovy" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -147,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/main/java/objects/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/controllers/CarController.java" />
         <option value="$PROJECT_DIR$/src/main/java/controllers/PersonRestController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hello/BaseClass.java" />
       </list>
     </option>
   </component>
@@ -159,8 +131,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1885" />
-    <option name="y" value="49" />
+    <option name="x" value="1472" />
+    <option name="y" value="31" />
     <option name="width" value="1440" />
     <option name="height" value="835" />
   </component>
@@ -204,16 +176,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="contract-rest-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-Service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="PersonRestController" type="1a9f42e2:ClassTreeNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="contract-rest-service" type="b2602c69:ProjectViewProjectNode" />
@@ -222,6 +185,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hello" type="462c0819:PsiDirectoryNode" />
+              <item name="PersonRestController" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="contract-rest-service" type="b2602c69:ProjectViewProjectNode" />
@@ -253,6 +217,30 @@
               <item name="hello" type="462c0819:PsiDirectoryNode" />
               <item name="BaseClass" type="1a9f42e2:ClassTreeNode" />
             </path>
+            <path>
+              <item name="contract-rest-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Cloud-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="contract-rest-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Cloud-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="contract-rest-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Cloud-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -269,11 +257,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="hello" />
       <recent name="controllers" />
       <recent name="services" />
       <recent name="objects" />
       <recent name="cars" />
-      <recent name="hello" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
@@ -380,8 +368,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1885" y="49" width="1440" height="835" extended-state="0" />
-    <editor active="true" />
+    <frame x="1472" y="31" width="1440" height="835" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -442,14 +429,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/PersonRestController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/PersonRestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/MilitaryController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/MilitaryController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
@@ -477,14 +464,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/PersonRestController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/PersonRestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/MilitaryController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/MilitaryController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
@@ -505,14 +492,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/PersonRestController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/PersonRestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/MilitaryController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/MilitaryController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
@@ -547,14 +534,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/MilitaryController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/MilitaryController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/PersonRestController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/PersonRestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
@@ -731,7 +718,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/MilitaryController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/MilitaryController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
@@ -741,7 +728,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/ItemRestController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/ItemRestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
@@ -776,7 +763,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/CarController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/CarController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
@@ -788,7 +775,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/PersonRestController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/PersonRestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
@@ -802,8 +789,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/hello/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
